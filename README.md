@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibrabe99
 - 👀 I’m interested in ...Web developer
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...react js
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ...alkateribrahimbe@gmail.com
 
